@@ -1,0 +1,6 @@
+aiogram 
+apscheduler
+sqlalchemy 
+aiosqlite 
+loguru 
+greenlet
